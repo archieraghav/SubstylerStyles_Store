@@ -1,4 +1,4 @@
-# Subtitle Style Marketplace
+# Subtitle Style Marketplace ( for making different styles )
 
 ## What this is
 A polished React single-page application that simulates a subtitle template marketplace. Users can browse subtitle styles, add them to a cart, and purchase using credits. Purchased templates persist in localStorage.
